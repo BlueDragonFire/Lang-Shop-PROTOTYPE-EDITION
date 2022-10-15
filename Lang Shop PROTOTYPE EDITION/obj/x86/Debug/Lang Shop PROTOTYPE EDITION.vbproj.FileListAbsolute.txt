@@ -1,0 +1,29 @@
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang Shop PROTOTYPE EDITION.exe
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang Shop PROTOTYPE EDITION.xml
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang Shop PROTOTYPE EDITION.pdb
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\bin\Debug\Lang Shop PROTOTYPE EDITION.exe
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\bin\Debug\Lang Shop PROTOTYPE EDITION.pdb
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\bin\Debug\Lang Shop PROTOTYPE EDITION.xml
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.Afrikaans.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.English.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.Levels.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.Mini_games.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.Zulu.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.ML1.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.ML2.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.ML3.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.ML4.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.ML5.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.NL1.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.NL2.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.NL3.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.NL4.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.NL5.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.Main.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.Resources.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang_Shop_PROTOTYPE_EDITION.SplashScreen1.resources
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang Shop PROTOTYPE EDITION.vbproj.GenerateResource.Cache
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\bin\Debug\Lang Shop PROTOTYPE EDITION.exe.manifest
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\bin\Debug\Lang Shop PROTOTYPE EDITION.application
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang Shop PROTOTYPE EDITION.exe.manifest
+C:\Users\Wikus\desktop\documents\visual studio 2010\Projects\Lang Shop PROTOTYPE EDITION\Lang Shop PROTOTYPE EDITION\obj\x86\Debug\Lang Shop PROTOTYPE EDITION.application
